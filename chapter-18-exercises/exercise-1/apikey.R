@@ -1,1 +1,1 @@
-my_apikey <- "TieWrcIAGGvYhYaPtXDuBEf5xkppzHTj"
+tmdb_key <- "TieWrcIAGGvYhYaPtXDuBEf5xkppzHTj"
